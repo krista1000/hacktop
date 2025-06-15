@@ -1,5 +1,6 @@
 # HackTop
-![HackTop Banner](HackTop-Banner-FIXED.png)
+![HackTop](HackTop-Banner-COMPACT.png)
+
 
 
 
