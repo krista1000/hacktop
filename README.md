@@ -1,4 +1,7 @@
 # HackTop
+![HackTop Banner](HackTop-Banner-FIXED.png)
+
+
 
 🛡️ **HackTop** is a stealth-ready cybersecurity toolkit for Kali Linux – featuring automated VPN, Tor integration, Kill Switch control, exportable VPN profiles, GPG encryption, DNS leak detection, and more. Built for ethical hacking and operational security.
 
