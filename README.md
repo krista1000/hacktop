@@ -19,7 +19,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/yourusername/hacktop.git
+git clone https://github.com/krista1000/hacktop.git
 cd hacktop
 chmod +x *.sh
 ./netcontrol-setup.sh
