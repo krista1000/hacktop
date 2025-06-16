@@ -2,7 +2,7 @@ Package: hacktop
 Version: 1.0
 Architecture: all
 Maintainer: Semiko <noreply@hacktop.local>
-Filename: /mnt/data/hacktop-apt/pool/hacktop/hacktop_1.0_all.deb
+Filename: pool/hacktop/hacktop_1.0_all.deb
 Size: 22436
 MD5sum: 30152b7960ba8c7f677ce5878000226e
 SHA1: 503d336be2b6b58c26b670e12fe98da1628cf9ac
