@@ -1,0 +1,13 @@
+Package: hacktop
+Version: 1.0
+Architecture: all
+Maintainer: Semiko <noreply@hacktop.local>
+Filename: /mnt/data/hacktop-apt/pool/hacktop/hacktop_1.0_all.deb
+Size: 22436
+MD5sum: 30152b7960ba8c7f677ce5878000226e
+SHA1: 503d336be2b6b58c26b670e12fe98da1628cf9ac
+SHA256: e49488556302de45f299bc7522640768afdccef64775d637014727d3c628bae4
+Section: utils
+Priority: optional
+Description: HackTop - Secure Linux Toolkit for ethical hacking (Kali)
+
