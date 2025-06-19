@@ -1,5 +1,5 @@
 #!/bin/bash
-ASCII=$(cat /home/kaliningrad/NetControl/HACKTOP_ASCII.txt)
+ASCII=$(cat ~/NetControl/HACKTOP_ASCII.txt)
 printf '\e[8;28;80t'  # Aseta terminaalin koko 80x28
 clear
 echo "$ASCII"
@@ -10,7 +10,7 @@ clear
 echo "$ASCII"
 sleep 2
 
-sed -i 's|/home/kaliningrad/NetControl/HACKTOP_ASCII.txt|/home/kaliningrad/NetControl/HACKTOP_ASCII.txt|' /home/kaliningrad/NetControl/netcontrol.sh
+sed -i 's|~/NetControl/HACKTOP_ASCII.txt|~/NetControl/HACKTOP_ASCII.txt|' ~/NetControl/netcontrol.sh
 
 HEIGHT=20
 WIDTH=60
@@ -121,13 +121,13 @@ echo "[+] Tarkistetaan proxy $PROXY..."
 curl -x $PROXY https://ifconfig.me || echo "Proxy ei toimi."
     ;;
 12)
-# Hacker Tools placeholder
-dialog --title "Hacker Tools" --msgbox "Tähän voit lisätä työkaluja kuten:\n- Whois\n- Nikto\n- sqlmap\n\n(Toteutus jatkuu...)" 12 50
-    ;;
+# Käynnistä Hacker Tools -skripti
+bash ~/NetControl/netcontrol-hacker.sh
+;;
 13)
 #!/bin/bash
 
-ASCII=$(cat /home/kaliningrad/NetControl/HACKTOP_ASCII.txt)
+ASCII=$(cat ~/NetControl/HACKTOP_ASCII.txt)
 
 DESKTOP_FILE=~/Desktop/NetControl.desktop
 
@@ -148,7 +148,7 @@ echo "[✓] Työpöytäkuvake luotu: $DESKTOP_FILE"
 14)
 #!/bin/bash
 
-ASCII=$(cat /home/kaliningrad/NetControl/HACKTOP_ASCII.txt)
+ASCII=$(cat ~/NetControl/HACKTOP_ASCII.txt)
 
 echo "[✓] Aloitetaan HackTop 1.0 -asennus..."
 

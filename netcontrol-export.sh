@@ -6,7 +6,7 @@ read -p "🔹 Paina Enter jatkaaksesi..." enter
 clear
 #!/bin/bash
 
-CONFIG_DIR="/home/kaliningrad/client-configs/files"
+CONFIG_DIR="/home//client-configs/files"
 EXPORT_DIR="$HOME/NetControl/exports"
 
 mkdir -p "$EXPORT_DIR"

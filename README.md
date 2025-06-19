@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="HackTop-Banner-COMPACT.png" alt="HackTop Banner">
+</p>
+
 
 # HackTop – NetControl v1.1 SUPREME
 
