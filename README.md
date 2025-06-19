@@ -3,7 +3,7 @@
 </p>
 
 
-# HackTop – NetControl v1.1 SUPREME
+# HackTop – NetControl v1.2 SUPREME
 
 🛡️ HackTop on Kali Linuxille suunniteltu kyberturvatyökalu, joka yhdistää anonyymiyden, VPN:n, Torin ja useita OPSEC-toimintoja. Se on tehty eettiseen hakkerointiin, tietoturvatestaukseen ja yksityisyyden suojaan.
 
@@ -60,7 +60,7 @@ MIT – vain koulutus- ja eettiseen käyttöön
 
 ---
 
-# HackTop – NetControl v1.1 SUPREME (ENGLISH)
+# HackTop – NetControl v1.2 SUPREME (ENGLISH)
 
 🛡️ HackTop is a stealth-ready cybersecurity toolkit for Kali Linux. Automates VPN, integrates Tor, supports Kill Switch, GPG encryption, MAC spoofing, DNS leak checks, and more – made for ethical hacking and OPSEC.
 
